@@ -30,6 +30,6 @@ This widget has several special features including:
 
 -Open a terminal and type:
 
--sed -i '186s/.*/variable1=$color${execpi 300 ~\/.conky\/MX-CoreRed_8ToDo\/weather.sh 12345}/' ~/.conky/MX-CoreRed_8ToDo/conkyrc2coreRed_8ToDo
+-sed -i '186s/.*/$color${execpi 300 ~\/.conky\/MX-CoreRed_8ToDo\/weather.sh 12345}/' ~/.conky/MX-CoreRed_8ToDo/conkyrc2coreRed_8ToDo
 
 **replace 12345 with your zip code
