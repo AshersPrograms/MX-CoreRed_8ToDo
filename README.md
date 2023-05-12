@@ -16,12 +16,12 @@ This widget has several special features including:
 -Open a terminal and type:
 --chmod 0755 ~/.conky/MX-CoreRed_8ToDo/weather.sh
 
-# Additional Shortcuts
+## Additional Shortcuts
 -Create a Desktop Shortcut to ~/.conky/MX-CoreRed_8ToDo/todo.txt 
 -or type:
 --ln -s ~/.conky/MX-CoreRed_8ToDo/todo.txt ~/Desktop/
 
-# Pre-specify your zip code
+## Pre-specify your zip code
 This is not necessary but if you want the program to run a little faster and more accurate.
 -To pre-specify your zip code
 -Open a terminal and type:
