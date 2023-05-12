@@ -22,8 +22,8 @@ This widget has several special features including:
 --ln -s ~/.conky/MX-CoreRed_8ToDo/todo.txt ~/Desktop/
 
 ## Pre-specify your zip code
--This is not necessary but if you want the program to run a little faster and more accurate. Pre-specify your zip code.
--Open a terminal and type:
+-This is not necessary but if you want the program to run a little faster and more accurate. Pre-specify your zip code.\n
+-Open a terminal and type:\n
 
 -sed -i '186s/.*/variable1=$color${execpi 300 ~\/.conky\/MX-CoreRed_8ToDo\/weather.sh 12345}/' ~/.conky/MX-CoreRed_8ToDo/conkyrc2coreRed_8ToDo
 
