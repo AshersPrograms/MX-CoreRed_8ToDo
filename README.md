@@ -12,11 +12,11 @@ This widget has several special features including:
 ![alt text](https://github.com/AshersPrograms/MX-CoreRed_8ToDo/blob/main/conkyrc2coreRed_8ToDo.png?raw=true)
 
 # Installation Instructions:
-download and unzip the folder to ~/.conky/
-then open a terminal and type:
-chmod 0755 ~/.conky/MX-CoreRed_8ToDo/weather.sh
+-download and unzip the folder to ~/.conky/
+-Open a terminal and type:
+--chmod 0755 ~/.conky/MX-CoreRed_8ToDo/weather.sh
 
 # Additional Shortcuts
-either create a Desktop Shortcut to ~/.conky/MX-CoreRed_8ToDo/todo.txt 
-or type:
-ln -s ~/.conky/MX-CoreRed_8ToDo/todo.txt ~/Desktop/
+-Create a Desktop Shortcut to ~/.conky/MX-CoreRed_8ToDo/todo.txt 
+-or type:
+--ln -s ~/.conky/MX-CoreRed_8ToDo/todo.txt ~/Desktop/
