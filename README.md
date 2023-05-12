@@ -22,14 +22,14 @@ This widget has several special features including:
 -Create a Desktop Shortcut to ~/.conky/MX-CoreRed_8ToDo/todo.txt
 
 -or type:
-
---ln -s ~/.conky/MX-CoreRed_8ToDo/todo.txt ~/Desktop/
-
+```bash
+ln -s ~/.conky/MX-CoreRed_8ToDo/todo.txt ~/Desktop/
+```
 ## Pre-specify your zip code
 -This is not necessary but if you want the program to run a little faster and more accurate. Pre-specify your zip code.
 
 -Open a terminal and type:
-
--sed -i '186s/.*/$color${execpi 300 ~\/.conky\/MX-CoreRed_8ToDo\/weather.sh 12345}/' ~/.conky/MX-CoreRed_8ToDo/conkyrc2coreRed_8ToDo
-
+```bash
+sed -i '186s/.*/$color${execpi 300 ~\/.conky\/MX-CoreRed_8ToDo\/weather.sh 12345}/' ~/.conky/MX-CoreRed_8ToDo/conkyrc2coreRed_8ToDo
+```
 **replace 12345 with your zip code
