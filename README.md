@@ -12,7 +12,7 @@ This widget has several special features including:
 ![alt text](https://github.com/AshersPrograms/MX-CoreRed_8ToDo/blob/main/conkyrc2coreRed_8ToDo.png?raw=true)
 
 # Installation Instructions:
--download and unzip the folder to ~/.conky/
+-Download and unzip the folder to ~/.conky/
 
 -Open a terminal and type:
 
