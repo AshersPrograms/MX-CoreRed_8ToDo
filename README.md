@@ -13,12 +13,16 @@ This widget has several special features including:
 
 # Installation Instructions:
 -download and unzip the folder to ~/.conky/
+
 -Open a terminal and type:
+
 --chmod 0755 ~/.conky/MX-CoreRed_8ToDo/weather.sh
 
 ## Additional Shortcuts
--Create a Desktop Shortcut to ~/.conky/MX-CoreRed_8ToDo/todo.txt 
+-Create a Desktop Shortcut to ~/.conky/MX-CoreRed_8ToDo/todo.txt
+
 -or type:
+
 --ln -s ~/.conky/MX-CoreRed_8ToDo/todo.txt ~/Desktop/
 
 ## Pre-specify your zip code
@@ -27,6 +31,5 @@ This widget has several special features including:
 -Open a terminal and type:
 
 -sed -i '186s/.*/variable1=$color${execpi 300 ~\/.conky\/MX-CoreRed_8ToDo\/weather.sh 12345}/' ~/.conky/MX-CoreRed_8ToDo/conkyrc2coreRed_8ToDo
-
 
 **replace 12345 with your zip code
