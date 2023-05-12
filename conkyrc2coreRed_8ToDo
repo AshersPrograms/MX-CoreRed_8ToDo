@@ -183,7 +183,7 @@ ${color1}${goto 191}SWAP
 # ---------------------------------------------------------------------------------------------------------------------------------------
 ${color1}${voffset 2} ${hr 1}
 ${goto $alignc}${color1}Weather:
-$color${execpi 300 ~/.conky/accu_weather/weather.sh}
+$color${execpi 300 ~/.conky/MX-CoreRed_8ToDo/weather.sh}
 ${goto $alignc}${color1}Debian Hint:
 $color${execpi 300 fortune debian-hints -n 10 | sed -r 's/.{35}/&\n/g'}
 
