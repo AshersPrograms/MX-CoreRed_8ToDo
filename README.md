@@ -1,14 +1,12 @@
 # MX-CoreRed_8ToDo
+This current version is out of date please go to:
 -https://github.com/AshersPrograms/MX-CoreRed
--This current version is out of date please go to:
--https://github.com/AshersPrograms/MX-CoreRed
--for the most up to date package go to:
--https://github.com/AshersPrograms/MX-CoreRed
--
+-for the most up to date package.
+
+# Out of Date
 -This is left here but is an old version please click on the link above to go to the most up todate version.
--
 -This is a widget plug-in made for Conky for 8 CPU's and has a To Do List
--
+
 # Special Features
 This widget has several special features including: 
 - A To Do List
